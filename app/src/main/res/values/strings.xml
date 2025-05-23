@@ -1,0 +1,25 @@
+
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Luna</string>
+    <string name="dog_name_2">Jake</string>
+    <string name="dog_name_3">Lucy</string>
+    <string name="dog_name_4">Milo</string>
+    <string name="dog_name_5">Coco</string>
+    <string name="dog_name_6">Daisy</string>
+    <string name="dog_name_7">Rocky</string>
+    <string name="dog_name_8">Churro</string>
+    <string name="dog_name_9">Waffles</string>
+    <string name="dog_description_1">Luna is a 3-year-old male Golden Retriever. Friendly, loyal, and highly intelligent. He’s great with families and makes an excellent therapy dog. Loves playing fetch and morning walks.</string>
+    <string name="dog_description_2">Jake is a gentle 2-year-old Labrador. Calm and affectionate, she gets along well with children and other pets. She enjoys cuddles, belly rubs, and long naps in the sun.</string>
+    <string name="dog_description_3">Lucy is a smart and curious Border Collie. Just 1 years old, she’s quick to learn commands and loves mental games. A perfect partner for training, agility, or hiking.</string>
+    <string name="dog_description_4">Milo is a playful and social Beagle. At 2 years old, he’s full of charm and gets excited around people. Milo loves food, sniffing everything in sight, and making new friends.</string>
+    <string name="dog_description_5">Coco is a 5-year-old female Pomeranian with a big personality. Despite her small size, she’s brave and protective. Great for apartment living and loves being the center of attention.</string>
+    <string name="dog_description_6">Daisy is a calm and loyal Rottweiler. At 6 years old, he’s mature, obedient, and well-trained. Bruno is a great guardian and a gentle giant with those he trusts.</string>
+    <string name="dog_description_7">Rocky is a strong and energetic 4-year-old Husky. Always ready for an adventure, he thrives on outdoor activities and loves the snow. Needs an active owner to match his stamina.</string>
+    <string name="dog_description_8">Churro is a cheerful and friendly Cocker Spaniel. She’s 3 years old and loves attention. Daisy enjoys short walks, toys that squeak, and following you from room to room.</string>
+    <string name="dog_description_9">Waffles is a confident and adventurous Shiba Inu. Just turned 2, he’s independent but affectionate in his own way. He enjoys exploring the outdoors and climbing up to watch everything around him.</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
